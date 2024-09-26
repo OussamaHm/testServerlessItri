@@ -1,0 +1,367 @@
+.itrinftPartnershipWith {
+  margin: 0;
+
+}
+.itriliving1 {
+  font-weight: 700;
+}
+.itriliving {
+  margin: 0;
+  font-family: var(--font-inria-serif);
+}
+
+.itrinftPartnershipWithContainer {
+  margin: 0 !important;
+  height: 144px;
+  width: 952px;
+  position: absolute;
+  top: 22px;
+  font-size: inherit;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  font-family: inherit;
+}
+.itrilivingHasDevelopedContainer {
+  align-self: stretch;
+  height: 392px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.partnershipDescription,
+.partnershipInfo {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.partnershipDescription {
+  flex-direction: column;
+  padding: var(--padding-181xl) 0 0;
+  box-sizing: border-box;
+  font-size: var(--text-single-300-bold-size);
+}
+.partnershipInfo {
+  flex-direction: row;
+  position: relative;
+  min-width: 404px;
+}
+.valentinLacosteGzu0bAe2ckUIcon {
+  width: 530px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.partnershipContent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-92xl);
+  max-width: 100%;
+}
+.faitesVosValisesPourCesI {
+  width: 533px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.itriliving2 {
+  font-weight: 700;
+  font-family: var(--font-inria-serif);
+  color: var(--color-tan);
+}
+.itrilivingCommitmentToContainer {
+  margin: 0;
+  align-self: stretch;
+  height: 144px;
+  position: relative;
+  letter-spacing: -1.8px;
+  line-height: 72px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: inherit;
+}
+.ourCommitmentTo {
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inria-serif);
+  color: var(--color-darkslategray-100);
+}
+.exclusiveAccommodationOffers2 {
+  font-family: var(--font-inter);
+}
+.eachNftHolder,
+.wePledgeTo {
+  font-weight: 300;
+}
+.wePledgeTo {
+  font-family: var(--font-inter);
+}
+.continuousResortExpansion {
+  margin-bottom: 0;
+}
+.exclusiveAccommodationOffers {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.weAreDedicatedContainer {
+  width: 609px;
+  height: 588px;
+  position: relative;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  font-size: var(--text-single-300-bold-size);
+}
+.commitment,
+.commitmentContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.commitmentContent {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+}
+.commitment {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-mid);
+  box-sizing: border-box;
+  min-width: 417px;
+}
+.islandArticle,
+.partnership {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.islandArticle {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-67xl);
+}
+.partnership {
+  width: 1262px;
+  flex-direction: column;
+  gap: var(--gap-50xl);
+}
+.partnershipWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-3xl) var(--padding-151xl) var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1425px) {
+  .partnershipWrapper {
+    padding-bottom: var(--padding-91xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .valentinLacosteGzu0bAe2ckUIcon {
+    flex: 1;
+  }
+  .partnershipContent {
+    flex-wrap: wrap;
+  }
+  .faitesVosValisesPourCesI {
+    flex: 1;
+  }
+  .islandArticle {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .itrinftPartnershipWithContainer {
+    font-size: var(--font-size-19xl);
+  }
+  .partnershipDescription {
+    padding-top: var(--padding-111xl);
+    box-sizing: border-box;
+  }
+  .partnershipInfo {
+    min-width: 100%;
+  }
+  .partnershipContent {
+    gap: var(--gap-36xl);
+  }
+  .itrilivingCommitmentToContainer {
+    font-size: var(--font-size-19xl);
+    line-height: 58px;
+  }
+  .commitmentContent {
+    gap: var(--gap-base);
+  }
+  .commitment {
+    min-width: 100%;
+  }
+  .islandArticle {
+    gap: var(--gap-24xl);
+  }
+  .partnership {
+    gap: var(--gap-15xl);
+  }
+  .partnershipWrapper {
+    padding-bottom: var(--padding-52xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .itrinftPartnershipWith {
+    margin: 0;
+
+  }
+  .weAreDedicatedContainer
+  {
+    margin-top: 15px;
+  }
+  .itrinftPartnershipWithContainer1
+  {
+    margin-top: 10px;
+  }
+  .itrinftPartnershipWithContainer {
+  }
+  .itrilivingCommitmentToContainer
+  {
+    font-size: small;
+  }
+  .faitesVosValisesPourCesI
+  {
+    width: 530px;
+    max-height: 100%;
+    visibility: hidden;
+    }
+  .itrinftPartnershipWithContainer
+  {
+    display: flex;
+    text-align: center;
+  }
+  .itrinftPartnershipWith
+    .itrinftPartnershipWithContainer1
+  {
+
+
+
+  }
+  .itrinftPartnershipWithContainer1
+  {
+    margin-right: 2em;
+  }
+  .itrilivingHasDevelopedContainer {
+    font-size: var(--text-regular-normal-size);
+    height: 50%;
+  }
+  .partnershipContent {
+    gap: var(--gap-9xl);
+  }
+  .itrilivingCommitmentToContainer {
+    font-size: var(--font-size-10xl);
+    line-height: 43px;
+  }
+  .weAreDedicatedContainer {
+    font-size: var(--text-regular-normal-size);
+    line-height: 22px;
+  }
+  .islandArticle {
+    gap: var(--gap-2xl);
+  }
+  .partnership {
+    gap: var(--gap-mid);
+  }
+  .partnershipWrapper {
+    padding-bottom: var(--padding-27xl);
+    box-sizing: border-box;
+  }
+}
+@media (max-width: 600px) {
+  .partnershipContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .valentinLacosteGzu0bAe2ckUIcon {
+    margin-bottom: 120px;
+    width: 100%; /* Make sure the image fits the container */
+  }
+.commitment
+{
+  height: 10px;
+}
+
+}
+/* Téléphones portables en mode portrait et paysage */
+@media (max-width: 767px) {
+  /* Votre CSS ici pour les petits écrans */.commitment
+{
+  height: 60px;
+}
+}
+
+/* Téléphones portables en mode portrait et paysage */
+@media (max-width: 800px) {
+
+
+
+  /* Votre CSS ici pour les petits écrans */.commitment
+{
+  height: 80px;
+}
+}
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.slideInRight {
+  animation: slideInRight 3s ease-out;
+}
+
+.slideInLeft {
+  animation: slideInLeft 3s ease-out;
+}
+
+
+/* style for frensh */
+
+
+
+
+/* style for frensh */

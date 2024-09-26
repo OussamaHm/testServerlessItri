@@ -1,0 +1,285 @@
+{
+  "get_data0": {
+    "a1": "Voyage",
+    "a2": "Uniquement,",
+    "a3": "Vivez",
+    "a4": "différemment",
+    "a5": "Découvrez Itri Living"
+  },
+  "get_data1": {
+    "p1": "Itri.living est une société suisse de services hôteliers (en cours d'incorporation) dédiée à offrir une valeur imbattable et des expériences de voyage authentiques dans des lieux exotiques.",
+    "p2": "Avec pour mission de proposer une réduction de prix d'au moins 50 % par rapport aux options similaires, Itri.living se concentre sur la fourniture d'une valeur exceptionnelle sans compromettre la qualité.",
+    "p3": "Grâce à des partenariats à long terme avec des promoteurs immobiliers dès les premières étapes, nous proposons des complexes hôteliers sur mesure, alignés sur nos valeurs fondamentales d'authenticité, de bien-être et de valeur exceptionnelle pour l'argent. Nous avons conclu un partenariat avec un promoteur marocain pour développer, d'ici l'été 2030, quatre complexes exclusifs pour notre marque, le premier devant ouvrir à la mi-2027.",
+    "p4": "En attendant, Itri.living sélectionnera des hébergements existants dans des complexes existants, offrant une bonne valeur à notre communauté en attendant le lancement de nos destinations sur mesure.",
+    "title": "Itri Living",
+    "title2": "Concept"
+  },
+  "get_data2": {
+    "p1": "Chez Itri.Living, les droits d'hébergement dans notre portefeuille de complexes sont représentés numériquement sous forme de Tokens ERC-721.",
+    "p10": "Cela permet un volume de transactions maximal pour le Token Itri,",
+    "p11": "\ud83d\udd38",
+    "p12": "Frais :",
+    "p13": "Lorsque les Tokens Itri changent de portefeuille, des frais sont payés - C'est la base de notre modèle économique : nous gagnons de l'argent lorsque vous en gagnez !",
+    "p14": "Réservation d'Hébergement",
+    "p15": "Lorsque les Tokens Itri sont utilisés pour réserver un séjour dans l'un de nos complexes, aucun frais de transaction n'est payé, et vous profitez de l'exceptionnelle valeur pour l'argent que vous méritez. Notre solution de réservation NiteBook (en cours de développement) vous guidera dans un parcours de réservation sans effort et intuitif.",
+    "p16": "Tout ce que vous",
+    "p17": "valorisez",
+    "p18": "est ce que nous vous offrirons.",
+    "p19": "Ce sont les expériences que nous savons être précieuses pour notre communauté.",
+    "p2": "(Tokens Itri)",
+    "p3": "Les Tokens Itri ont les utilités/caractéristiques suivantes :",
+    "p4": "Liquidité :",
+    "p5": "Les Tokens Itri seront échangés (achetés et vendus)",
+    "p6": "sur une ou plusieurs bourses sélectionnées (centralisées et/ou DeFi).",
+    "p7": "Volume de Transactions (prévu) :",
+    "p8": "Un Token Itri équivaut à une nuit d'hébergement,",
+    "p9": "dans n'importe quel complexe Itri.",
+    "title": "Droits d'Hébergement Tokenisés :",
+    "title2": "Token Itri"
+  },
+  "get_data3": {
+    "b1": "Avantages à trouver dans tous nos",
+    "b2": "complexes sur mesure",
+    "b3": "Emplacements exceptionnels (front de mer, montagne, désert...)",
+    "b4": "Hébergement authentique pour des expériences enrichissantes",
+    "b5": "Installations et services de pointe sur place, y compris piscines, équipements de fitness, centre de bien-être, et plus encore."
+  },
+  "get_data4": {
+    "c1": "Valeur exceptionnelle",
+    "c10": "Chez Itri.living, notre modèle de revenus ne repose pas uniquement sur les services d'hébergement que nous offrons. Notre marge provient également des frais que nous percevons lorsque vous échangez des Tokens Itri sur les bourses.",
+    "c11": "Donc, quand vous gagnez de l'argent, nous en gagnons avec vous.",
+    "c2": "pour l'argent",
+    "c3": "Chez Itri.living, nous sommes capables d'offrir une valeur exceptionnelle pour l'argent à notre communauté grâce à une combinaison des éléments suivants :",
+    "c4": "En partenariat avec des promoteurs immobiliers ayant déjà sécurisé les terrains des complexes dès le début, à des prix raisonnables.",
+    "c5": "Tout en ne faisant aucun compromis sur la sécurité, le confort et l'authenticité, nous sommes en mesure de sécuriser les meilleurs prix de construction pour les complexes et les unités d'hébergement.",
+    "c6": "En ayant choisi un modèle entièrement numérique et en comptant sur la force de notre communauté, nous sommes en mesure d'économiser sur les coûts de marketing et d'acquisition de clients.",
+    "c7": "Pour les raisons mentionnées ci-dessus, développer des complexes sur mesure et choisir un modèle entièrement numérique nous permettent de limiter nos coûts et de répercuter les économies sur notre communauté.",
+    "c8": "Cependant, le facteur le plus important est notre stratégie de ne gagner de l'argent que lorsque vous en gagnez, alignant ainsi nos intérêts avec les vôtres, dans une philosophie gagnant-gagnant."
+  },
+  "get_data5": {
+    "d1": "Séjournez avec",
+    "d2": "Itri Living",
+    "d3": "Chaque séjour est plus qu'une simple escapade - c'est une opportunité de se connecter avec la nature, de s'immerger dans la culture locale, et de créer des souvenirs durables qui incarnent la véritable essence du voyage.",
+    "d4": "Chez Itri Living, votre voyage est illuminé par 'Itri', l'étoile qui représente notre dévouement à des expériences authentiques et significatives."
+  },
+  "get_data6": {
+    "e1": "Rappel",
+    "e2": "Veuillez noter que nous n'avons actuellement aucun contrat de gestion avec des complexes opérationnels.",
+    "e3": "Cependant, NOUS AVONS CONCLU UN PARTENARIAT AVEC UN PROMOTEUR POUR DÉMARRER la construction DANS UN ENDROIT EN BORD DE MER INCROYABLE :",
+    "e4": "Itri Residences Nador, situé sur la mer Méditerranée.",
+    "e5": "TROIS AUTRES projets sont en cours d'examen pour devenir opérationnels D'ICI L'ÉTÉ 2030.",
+    "e6": "Bien que nous visons à développer un catalogue diversifié de propriétés pour la COMMUNAUTÉ Itri, il n'y a aucune garantie que ces projets seront construits À TEMPS, ou qu'ils seront ceux spécifiquement mentionnés.",
+    "e7": "Nous nous engageons à faire tous les efforts nécessaires pour offrir une sélection riche de",
+    "e8": "propriétés SUR MESURE",
+    "e9": "à nos membres."
+  },
+  "get_data7": {
+    "f1": "Partenariat Itri.nft avec",
+    "f10": "Notre engagement envers vous comprend :",
+    "f11": "Offres d'hébergement exclusives :",
+    "f12": "Chaque détenteur de NFT aura l'opportunité d'acheter jusqu'à 30 jours d'hébergement chaque année, dans nos complexes partenaires, à un prix significativement réduit par rapport au marché (entre 50 % et 80 % de réduction par rapport à la valeur marchande).",
+    "f13": "Expansion continue des complexes :",
+    "f14": "Nous nous engageons à lancer notre premier complexe sur mesure, développé par notre partenaire promoteur selon nos normes spécifiques, d'ici l'été 2027. Par la suite, nous ferons tous les efforts nécessaires pour introduire un nouveau complexe chaque été jusqu'en 2030.",
+    "f15": "Offres saisonnières à prix réduit :",
+    "f16": "D'ici la saison des vacances d'été 2026, nous proposerons des offres d'hébergement temporaires. Bien que celles-ci ne comprennent pas tous nos services standards, elles offriront toujours au moins 50 % de réduction sur la valeur marchande.",
+    "f2": "Itri.Living",
+    "f3": "Itri.living a développé un partenariat stratégique avec le projet Itri NFT et son club numérique. Ce partenariat offre aux détenteurs de NFT Itri les avantages suivants :",
+    "f4": "Chaque détenteur de NFT Itri/membre du club numérique pourra acheter 30 tokens (émis par Itri.living) par an au prix de 35 Sfr/token.",
+    "f5": "Cela signifie que les détenteurs de NFT Itri bénéficieront de 30 jours chaque année dans l'un de nos complexes exclusifs au coût de 35 Sfr/jour. Bien entendu, s'ils le souhaitent, ils peuvent également échanger leurs tokens Itri sur le Marché.",
+    "f6": "Itri.Living",
+    "f7": "engagement",
+    "f8": "Aux membres du club Itri NFT:",
+    "f9": "Nous nous engageons à vous offrir une expérience unique et une valeur exceptionnelle."
+  },
+  "get_data8": [
+    {
+      "title": "Communauté"
+    },
+    {
+      "title": "Famille"
+    },
+    {
+      "title": "Sport"
+    },
+    {
+      "title": "Bien-être"
+    },
+    {
+      "title": "Écologie"
+    },
+    {
+      "title": "Nature"
+    }
+
+  ],
+  "get_data9": [
+    {
+      "title": "Centre de bien-être",
+      "imagePath": "/placeholder-image@2x.png",
+      "altText": "Centre de bien-être"
+    },
+    {
+      "title": "École de voile (¹)",
+      "imagePath": "/placeholder-image-1@2x.png",
+      "altText": "École de voile (¹)"
+    },
+    {
+      "title": "Sports nautiques (¹)",
+      "imagePath": "/placeholder-image-2@2x.png",
+      "altText": "Sports nautiques (¹)"
+    },
+    {
+      "title": "Cyclisme",
+      "imagePath": "/placeholder-image-3@2x.png",
+      "altText": "Cyclisme"
+    },
+    {
+      "title": "Club de plage privé (¹)",
+      "imagePath": "/placeholder-image-4@2x.png",
+      "altText": "Club de plage privé (¹)"
+    },
+    {
+      "title": "Club pour enfants",
+      "imagePath": "/placeholder-image-5@2x.png",
+      "altText": "Club pour enfants"
+    },
+    {
+      "title": "Zone de yoga et de méditation",
+      "imagePath": "/placeholder-image-6@2x.png",
+      "altText": "Zone de yoga et de méditation"
+    }
+  ],
+  "layoutData": {
+    "title": "Économisez jusqu'à 80%",
+    "subtitle": "Sur vos vacances en bord de mer",
+    "buttonText": "Réservez un séjour",
+    "buttonDisabledText": "Pas encore disponible"
+  },
+  "features": [
+    { "text": "Espace de travail + Fournitures" },
+    { "text": "Chambres confortables" },
+    { "text": "Wifi solide et fiable" },
+    { "text": "Entièrement meublé" },
+    { "text": "Cuisines bien équipées" },
+    { "text": "Serviettes + Linge frais" },
+    { "text": "Nettoyé professionnellement" },
+    { "text": "Sûr et sécurisé" },
+    { "text": "Café + Thé" },
+    { "text": "Enregistrement sans contact" },
+    { "text": "Gestionnaire de communauté local" },
+    { "text": "Support 24/7" }
+  ],
+  "locations": [
+    { "title": "Terrasse charmante" },
+    { "title": "Piscine authentique" },
+    { "title": "Chambre authentique" },
+    { "title": "Salon chaleureux" },
+    { "title": "Salon élégant" },
+    { "title": "Chambre confortable" }
+  ],
+  "dataSpaces": {
+    "exploreTitle": "Explorez les espaces Itri.living :",
+    "subTitle": "à trouver dans la plupart des complexes que nous apportons au Club",
+    "description": "Un endroit à vous. Parfait pour les couples, les amis ou les voyageurs seuls.",
+    "bookButtonText": "Réservez un séjour",
+    "buttonDisabledText": "Pas encore disponible",
+    "locationsTitle": "Lieux à l'étude",
+    "residencesTitle": "Faites de Itri Residences Beach & Spa votre maison loin de chez vous"
+  },
+  "dataBlog": {
+    "sectionTitle": "De notre blog",
+    "newsItems": [
+      {
+        "date": "28 Février 2024",
+        "title": "Adopter l'authenticité avec Itri Residences",
+        "description": "Découvrez la véritable essence de l'authenticité à Itri Residences, où chaque séjour ressemble à une véritable immersion culturelle..."
+      },
+      {
+        "date": "24 Mai 2024",
+        "title": "Votre guide de voyage authentique: Édition plage & spa",
+        "description": "Explorez notre guide pour vivre les meilleures retraites plage et spa avec une touche d'authenticité à Itri Residences"
+      },
+      {
+        "date": "21 Août 2024",
+        "title": "Les pratiques éco-responsables d'Itri",
+        "description": "Découvrez comment Itri Residences s'engage pour un mode de vie durable et des expériences de voyage authentiques et écologiques…"
+      },
+      {
+        "date": "27 Septembre 2024",
+        "title": "Itri Residences s'associe aux communautés locales",
+        "description": "Découvrez notre collaboration avec les communautés locales pour offrir des expériences culturelles authentiques à nos invités"
+      }
+    ],
+    "readMoreText": "En savoir plus"
+  },
+  "dataFaq": [
+    {
+      "question": "Qu'est-ce que Itri.Living?",
+      "answer": "Itri Living est une entreprise suisse de services d'hospitalité (en cours de création) dédiée à offrir une valeur inégalée et des expériences de voyage authentiques dans des lieux exotiques. En collaborant tôt avec les promoteurs immobiliers, nous créons des complexes sur mesure qui reflètent nos valeurs de bien-être, d'authenticité et de rapport qualité-prix. Notre premier complexe exclusif ouvrira en 2027, avec trois autres d'ici 2030. En attendant, nous offrons des hébergements sélectionnés à notre communauté."
+    },
+    {
+      "question": "Comment fonctionne Itri Living?",
+      "answer": "Itri Living fonctionne sur un modèle d'adhésion. Les membres peuvent réserver des séjours dans nos complexes sélectionnés en utilisant des jetons et profiter de bénéfices exclusifs et de réductions pour chaque réservation."
+    },
+    {
+      "question": "Qu'est-ce qui rend Itri Living unique?",
+      "answer": "Nos complexes seront conçus pour être respectueux de l'environnement, alliant architecture éco-responsable et traditions locales. Nous offrons des expériences immersives axées sur la durabilité et l'authenticité, le tout à des prix imbattables."
+    },
+    {
+      "question": "Quels types d'expériences Itri Living propose-t-il?",
+      "answer": "Nous offrons une gamme d'expériences : détente dans les spas, sports nautiques, randonnée, yoga et immersion culturelle, toutes axées sur l'engagement écologique et communautaire."
+    },
+    {
+      "question": "Où sont situés les complexes Itri Living?",
+      "answer": "Notre premier complexe ouvrira en 2027, avec trois autres prévus d'ici 2030. Les discussions sont en cours pour les emplacements. En attendant, nous sélectionnons des hébergements dans des complexes existants, offrant des expériences authentiques en attendant le lancement de nos destinations sur mesure."
+    },
+    {
+      "question": "Qui sont les partenaires de Itri Living?",
+      "answer": ""
+    },
+    {
+      "question": "Comment puis-je profiter des offres et réductions exclusives?",
+      "answer": ""
+    }
+  ],
+  "dataFaqHeader": {
+    "title": {
+      "prefix": "Consultez les questions sur",
+      "highlight": "Itri.living club?"
+    },
+    "description": "Si nos FAQ sur l'adhésion ne suffisent pas, n'hésitez pas à réserver un appel avec nous et nous serons ravis de vous aider!"
+  },
+  "dataNewsletter": {
+    "title": "Obtenez un accès anticipé pour vous inscrire à votre",
+    "subtitle": "compte Itri.living",
+    "description": "Soyez le premier à découvrir nos dernières technologies innovantes en matière d'hospitalité.",
+    "placeholder": "Votre email",
+    "buttonText": "Aller",
+    "terms": "En rejoignant, vous acceptez nos termes et conditions.",
+    "googleSignIn": "Se connecter avec Google",
+    "facebookSignIn": "Se connecter avec Facebook"
+  },
+  "members": {
+    "title": {
+      "part1": "Qu'est-ce qui rend nos complexes",
+      "part2": "vraiment",
+      "part3": "authentiques"
+    },
+    "cards": [
+      {
+        "image": "/placeholder-image-8@2x.png",
+        "text": "Forte communauté et focus sur la durabilité"
+      },
+      {
+        "image": "/placeholder-image-9@2x.png",
+        "text": "Architecture écologique ancrée dans les traditions locales"
+      },
+      {
+        "image": "/placeholder-image-10@2x.png",
+        "text": "Expériences culturelles immersives"
+      }
+    ]
+  }
+
+
+}

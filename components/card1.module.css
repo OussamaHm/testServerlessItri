@@ -1,0 +1,72 @@
+.placeholderImageIcon {
+  align-self: stretch;
+  height: 296px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.card {
+  overflow: hidden; /* Ensures content doesn't overflow */
+  transition: transform 0.5s ease; /* Smooth transition for the card */
+}
+
+.placeholderImageIcon {
+  width: 100%; /* Ensure the image fills the card */
+  transition: transform 0.3s ease; /* Smooth transition for the image */
+}
+
+.card:hover .placeholderImageIcon {
+  transform: scale(1.2); /* Zoom in on hover */
+}
+
+.name {
+  /* Add any additional styling for the text container here */
+}
+.strongCommunityAnd {
+  margin: 0;
+}
+.name {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+}
+.card,
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content {
+  align-self: stretch;
+  align-items: center;
+}
+.card {
+  flex: 1;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--text-single-300-bold-size);
+  color: var(--black);
+  font-family: var(--text-tiny-normal);
+}
+@media screen and (max-width: 450px) {
+  .name {
+    font-size: var(--text-regular-normal-size);
+    line-height: 24px;
+    height: 50%;
+  }
+
+  .strongCommunityAnd
+  {
+    font-size: 10px; /* Or any other specific size */
+    margin-top: 5px;
+  }
+
+}

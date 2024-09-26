@@ -1,0 +1,42 @@
+/* Add this CSS to your stylesheet or in a <style> tag in your component file */
+
+/* Ensure the dropdown items are responsive */
+.dropdown-menu {
+    width: 100%;
+    max-width: 300px; /* Adjust the max-width according to your design */
+}
+
+/* Make sure flags and text align properly */
+.dropdown-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Adjust spacing for text and flag */
+.dropdown-item img, .dropdown-item svg {
+    margin-right: 10px;
+}
+
+.dropdown-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    background-color: transparent;
+    border: none;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 576px) {
+    .dropdown-toggle span {
+        font-size: 0.9rem; /* Smaller text on small screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .dropdown-menu {
+        max-width: 250px;
+    }
+}

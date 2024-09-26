@@ -1,0 +1,227 @@
+/* Base styles */
+.newsletter {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-36xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-mid-4);
+  color: var(--color-snow-100);
+  font-family: var(--font-inter);
+  width: 100%;
+  max-width: 1396px;
+}
+
+.newsletterContent {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+
+.newsletterForm {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-base-5);
+  min-width: 400px;
+}
+
+.keepUpWithContainer {
+  height: 56px;
+  line-height: 28px;
+  font-weight: 500;
+  display: flex; /* Ensure content is centered in the container */
+  justify-content: center;
+  align-items: center;
+}
+
+.keepUpWith {
+  margin: 0;
+}
+
+.form {
+  width: 100%; /* Full width for the form */
+  display: flex;
+  justify-content: center; /* Center the form */
+  align-items: center; /* Center align items vertically */
+}
+
+.inputWithButton {
+  display: flex;
+  align-items: center;
+  position: relative;
+  max-width: 300px; /* Set a max-width for the input with button */
+  width: 100%;
+}
+
+.input {
+  flex: 1;
+  padding: var(--padding-2xs) var(--padding-xs);
+  padding-right: 50px; /* Add padding to the right to make room for the button */
+  box-sizing: border-box;
+  border-radius: 50px 0 0 50px; /* Rounded corners with no right border-radius */
+  border: 1px solid #ccc; /* Border for the input */
+  background-color: var(--color-floralwhite);
+  font-size: var(--font-size-sm);
+}
+
+.buttonIconWrapper {
+  position: absolute;
+  right: -40px; /* Position button outside the input field */
+  top: 50%;
+  transform: translateY(-50%); /* Center the button vertically */
+  border: none; /* Remove default button border */
+  background: none; /* Remove default button background */
+  padding: 0; /* Remove default button padding */
+  cursor: pointer;
+  border-radius: 0 50px 50px 0; /* Rounded corners on the left side */
+  overflow: hidden;
+}
+
+.buttonIcon {
+  width: 36px;
+  height: 36px;
+  display: block;
+}
+
+/* Responsive adjustments */
+
+/* Mobile screens */
+@media (max-width: 450px) {
+  .newsletter {
+    flex-direction: column;
+    padding: 0 var(--padding-xs);
+    align-items: center;
+  }
+
+  .newsletterContent {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: var(--gap-base);
+  }
+
+  .newsletterForm {
+    width: 100%;
+    min-width: 100%;
+    gap: var(--gap-base);
+    align-items: center;
+  }
+
+  .keepUpWithContainer {
+    height: auto;
+    font-size: var(--font-size-sm);
+    line-height: normal;
+    text-align: center;
+    padding: var(--padding-xs);
+  }
+
+  .form {
+    flex-direction: column; /* Stack input and button vertically */
+    align-items: center;
+  }
+
+  .inputWithButton {
+    max-width: 100%; /* Full width for small screens */
+  }
+
+  .input {
+    margin-left: 6em;
+    border-radius: 50px; /* Full rounding on smaller screens */
+    padding-right: 10px; /* Adjust padding for smaller screens */
+    margin-bottom: var(--margin-xs); /* Space between input and button */
+  }
+
+  .buttonIconWrapper {
+    position: relative;
+    right: 0;
+    top: 0;
+    transform: none; /* No need to center */
+    border-radius: 50px; /* Rounded corners for standalone button */
+    margin-top: var(--margin-xs);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Button takes full width */
+  }
+
+  .buttonIcon {
+    margin-right: 3em;
+    width: 36px;
+    height: 36px;
+  }
+}
+
+/* Tablet screens */
+@media (max-width: 768px) {
+  .newsletter {
+    padding: 0 var(--padding-md);
+  }
+
+  .newsletterContent {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .verticalborder {
+    width: 100%;
+    padding: var(--padding-lg) var(--padding-md);
+    border-left: none;
+    border-top: 1px solid var(--color-snow-300);
+  }
+
+  .keepUpWithContainer {
+    text-align: center;
+  }
+
+  .nameemailcom {
+    width: 100%;
+  }
+
+  .form {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* Small Laptops */
+@media (max-width: 1024px) {
+  .newsletter {
+    padding: 0 var(--padding-lg);
+  }
+
+  .newsletterContent {
+    gap: var(--gap-lg);
+  }
+
+  .verticalborder {
+    width: 100%;
+    padding: var(--padding-xl) var(--padding-lg);
+  }
+
+  .input {
+    padding: var(--padding-sm) var(--padding-md);
+  }
+}
+
+/* Desktops */
+@media (min-width: 1025px) {
+  .newsletter {
+    padding: 0 var(--padding-36xl);
+  }
+
+  .verticalborder {
+    width: 732px;
+  }
+
+  .input {
+    min-width: 236px;
+    padding: var(--padding-2xs-1) var(--padding-base) var(--padding-3xs-9);
+  }
+}

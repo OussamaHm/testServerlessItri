@@ -1,0 +1,77 @@
+/* For wider screens */
+.howDoesItri {
+  width: 580px;
+  position: relative;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 44px);
+}
+
+.imgIcon {
+  width: 24px;
+  height: 24px;
+  position: relative;
+margin-left: 10px;
+
+}
+
+.horizontalborder,
+.imageContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+
+
+.horizontalborder {
+  align-self: stretch;
+  border-top: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  flex-direction: column; /* Ensure vertical stacking */
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-14xl) var(--padding-base) var(--padding-5xs);
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--text-medium-normal-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-inter);
+}
+
+.answer {
+  font-size: 1rem;
+  line-height: 1.6;
+  padding-top: 10px;
+}
+
+/* Responsive styles for screens with a max width of 450px */
+@media (max-width: 450px) {
+  .howDoesItri {
+    width: auto;
+    max-width: 100%;
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+
+  .horizontalborder {
+    flex-direction: column;
+    padding: var(--padding-mini) var(--padding-base);
+    gap: var(--gap-small);
+  }
+
+  .answer {
+    font-size: 0.85rem;
+    padding: 10px 0;
+    word-wrap: break-word;
+    line-height: 1.5;
+  }
+
+  .imgIcon {
+    width: 20px;
+    height: 20px;
+  }
+}

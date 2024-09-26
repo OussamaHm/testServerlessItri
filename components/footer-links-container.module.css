@@ -1,0 +1,4 @@
+
+.linkContainer :global(a) {
+    text-decoration: none;
+}

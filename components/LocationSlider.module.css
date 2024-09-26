@@ -1,0 +1,28 @@
+/* LocationSlider.module.css */
+@media (max-width: 576px) {
+    .container {
+        max-width: 60%; /* Minimize the width of the container */
+        margin: 0 auto; /* Center the container horizontally */
+        padding: 0; /* Remove padding to maximize space */
+    }
+
+    .slick-slider {
+        max-width: 100%; /* Ensure the slider uses the full container width */
+    }
+
+    .card {
+        margin: 0 auto; /* Center each card */
+        width: 80%; /* Reduce the overall card width */
+    }
+
+    .card-img-top {
+        width: 100%; /* Ensure the image takes up the full width of the card */
+        height: 80px; /* Further reduce the height of the images */
+        object-fit: cover; /* Ensure the images cover the space without distortion */
+        border-radius: 8px; /* Maintain the border radius */
+    }
+
+    .slick-arrow {
+        display: none; /* Hide arrows on mobile to avoid clutter */
+    }
+}
