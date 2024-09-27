@@ -1,0 +1,33 @@
+name: Auto-Translate Files
+
+on:
+  push:
+    paths:
+      - "public/locales/en/common.json"
+      
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install googletrans==4.0.0-rc1
+
+      - name: Translate EN to FR and DE
+        run: |
+          python translate.py
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add public/locales/fr/common.json public/locales/de/common.json
+          git commit -m 'Auto-translate EN updates to FR and DE'
+          git push

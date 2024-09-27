@@ -3,13 +3,13 @@
     "a1": "Travel",
     "a2": "Uniquely,",
     "a3": "Live",
-    "a4": "differently",
+    "a4": "differently again",
     "a5": "Discover Itri Living"
   },
   "get_data1": {
     "p1": "Itri.living is a Swiss hospitality services company (under incorporation) dedicated to providing unbeatable value and authentic travel experiences in exotic places.",
     "p2": "With a mission to offer a minimum 50% price discount compared to similar options, Itri.living focuses on delivering exceptional value without compromising on quality.",
-    "p3": "Through long-term partnerships with property developers at the very early stages, we offer tailor-made, bespoke hospitality resorts that align with our core values of authenticity, well-being, and exceptional value for money. We have secured a partnership with a Moroccan developer to develop for our brand, by summer 2030, four exclusive resorts, the 1st one set to open mid-2027.",
+    "p3": "Through long-term partnerships with property developers at the very early stages, we offer tailor-made, bespoke hospitality resorts that align with our core values of authenticity, well-being, and exceptional value for images. We have secured a partnership with a Moroccan developer to develop for our brand, by summer 2030, four exclusive resorts, the 1st one set to open mid-2027.",
     "p4": "In the interim, Itri.living will curate select existing accommodations from existing resorts, offering good value to our community while we await the launch of our custom-built destinations.",
     "title": "Itri Living",
     "title2": "Concept"
@@ -17,7 +17,7 @@
   "get_data2": {
     "p1": "At Itri.Living, accommodations rights to our resorts portfolio are digitally represented as ERC-721 Tokens.",
     "p10": "This allows for maximum transaction volume for the Itri Token,",
-    "p11": "\ud83d\udd38",
+    "p11": "🔸",
     "p12": "Fees:",
     "p13": "When Itri Tokens change wallets, a fee is paid - This is the basis of our income model: we make money when you make money!",
     "p14": "Accommodation Booking",
@@ -41,7 +41,7 @@
     "b1": "Benefits to be found in all our",
     "b2": "custom Resorts",
     "b3": "Exceptional locations (beachfront, mountain, desert...)",
-    "b4": "\u2028Authentic Accommodation for Enriching Experiences",
+    "b4": " Authentic Accommodation for Enriching Experiences",
     "b5": "State-of-the-art facilities and services on site including pools, fitness amenities, a wellness center, and more."
   },
   "get_data4": {
@@ -112,7 +112,6 @@
       "title": "Nature"
     }
   ],
-
   "get_data9": [
     {
       "title": "Wellness center",
@@ -157,26 +156,62 @@
     "buttonDisabledText": "Not Available Yet"
   },
   "features": [
-    { "text": "Work Space + Supplies" },
-    { "text": "Cozy Bedrooms" },
-    { "text": "Solid, Reliable Wifi" },
-    { "text": "Fully Furnished" },
-    { "text": "Well-equipped Kitchens" },
-    { "text": "Fresh Towels + Linens" },
-    { "text": "Professionally Cleaned" },
-    { "text": "Safe and Secure" },
-    { "text": "Coffee + Tea" },
-    { "text": "Contactless Check-in" },
-    { "text": "Local Community Manager" },
-    { "text": "24/7 Support" }
+    {
+      "text": "Work Space + Supplies"
+    },
+    {
+      "text": "Cozy Bedrooms"
+    },
+    {
+      "text": "Solid, Reliable Wifi"
+    },
+    {
+      "text": "Fully Furnished"
+    },
+    {
+      "text": "Well-equipped Kitchens"
+    },
+    {
+      "text": "Fresh Towels + Linens"
+    },
+    {
+      "text": "Professionally Cleaned"
+    },
+    {
+      "text": "Safe and Secure"
+    },
+    {
+      "text": "Coffee + Tea"
+    },
+    {
+      "text": "Contactless Check-in"
+    },
+    {
+      "text": "Local Community Manager"
+    },
+    {
+      "text": "24/7 Support"
+    }
   ],
   "locations": [
-    { "title": "Charming terrace" },
-    { "title": "Authentic pool" },
-    { "title": "Authentic bedroom" },
-    { "title": "Warm living room" },
-    { "title": "Elegant lounge" },
-    { "title": "Cozy bedroom" }
+    {
+      "title": "Charming terrace"
+    },
+    {
+      "title": "Authentic pool"
+    },
+    {
+      "title": "Authentic bedroom"
+    },
+    {
+      "title": "Warm living room"
+    },
+    {
+      "title": "Elegant lounge"
+    },
+    {
+      "title": "Cozy bedroom"
+    }
   ],
   "dataSpaces": {
     "exploreTitle": "Explore Itri.living Spaces:",
@@ -281,5 +316,4 @@
       }
     ]
   }
-
 }
